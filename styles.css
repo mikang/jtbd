@@ -4,8 +4,10 @@ html {
 
 .container {
 	margin-top: 40px;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-bottom: 40px;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 td {
@@ -20,4 +22,11 @@ td.category {
 
 img {
 	max-width: 100%;
+}
+
+.banner {
+	background-color: #E6F8FF; 
+	color: #00597F;
+	border: 3px solid #B8E3F6;
+	padding: 40px;
 }
